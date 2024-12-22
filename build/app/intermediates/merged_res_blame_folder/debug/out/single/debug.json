@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\omara\\.gradle\\daemon\\8.2\\net.codexdev.flutter_alarm_clock.app-merged_res-28:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\omara\\.gradle\\daemon\\8.2\\net.codexdev.flutter_alarm_clock.app-main-22:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\omara\\.gradle\\daemon\\8.2\\net.codexdev.flutter_alarm_clock.app-merged_res-28:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\omara\\.gradle\\daemon\\8.2\\net.codexdev.flutter_alarm_clock.app-main-22:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "net.codexdev.flutter_alarm_clock.app-merged_res-28:/drawable_codex_logo.png.flat",
+        "source": "net.codexdev.flutter_alarm_clock.app-main-22:/drawable/codex_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\omara\\.gradle\\daemon\\8.2\\net.codexdev.flutter_alarm_clock.app-merged_res-28:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\omara\\.gradle\\daemon\\8.2\\net.codexdev.flutter_alarm_clock.app-main-22:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "net.codexdev.flutter_alarm_clock.app-merged_res-28:/drawable_code_logo.png.flat",
+        "source": "net.codexdev.flutter_alarm_clock.app-main-22:/drawable/code_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\omara\\.gradle\\daemon\\8.2\\net.codexdev.flutter_alarm_clock.app-merged_res-28:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\omara\\.gradle\\daemon\\8.2\\net.codexdev.flutter_alarm_clock.app-main-22:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\omara\\.gradle\\daemon\\8.2\\net.codexdev.flutter_alarm_clock.app-merged_res-28:\\drawable_codex_logo.png.flat",
+        "source": "C:\\Users\\omara\\.gradle\\daemon\\8.2\\net.codexdev.flutter_alarm_clock.app-main-22:\\drawable\\codex_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\omara\\.gradle\\daemon\\8.2\\net.codexdev.flutter_alarm_clock.app-merged_res-28:\\raw_a_long_cold_sting.wav.flat",
+        "source": "C:\\Users\\omara\\.gradle\\daemon\\8.2\\net.codexdev.flutter_alarm_clock.app-main-22:\\raw\\a_long_cold_sting.wav"
+    },
+    {
+        "merged": "C:\\Users\\omara\\.gradle\\daemon\\8.2\\net.codexdev.flutter_alarm_clock.app-merged_res-28:\\drawable-v21_launch_background.xml.flat",
+        "source": "C:\\Users\\omara\\.gradle\\daemon\\8.2\\net.codexdev.flutter_alarm_clock.app-main-22:\\drawable-v21\\launch_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\omara\\.gradle\\daemon\\8.2\\net.codexdev.flutter_alarm_clock.app-merged_res-28:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\omara\\.gradle\\daemon\\8.2\\net.codexdev.flutter_alarm_clock.app-main-22:\\mipmap-xxxhdpi\\ic_launcher.png"
+    }
+]

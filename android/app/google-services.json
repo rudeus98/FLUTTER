@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "763694705261",
+    "project_id": "flutter-1ce30",
+    "storage_bucket": "flutter-1ce30.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763694705261:android:376e2d553c6f8c1f07ad64",
+        "android_client_info": {
+          "package_name": "net.codexdev.flutter_alarm_clock"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChXxodcsomU1jENA9CmAufiR6pwDUh8wY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
